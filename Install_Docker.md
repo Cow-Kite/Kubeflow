@@ -1,4 +1,4 @@
-# 1. Repository 업데이트 및 필요한 패키지 설치
+# 1. Repository 업데이트 잋 필요한 패키지 설치
 sudo apt-get update
 
 sudo apt-get install \
