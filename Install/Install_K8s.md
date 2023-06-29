@@ -27,7 +27,7 @@
 
     sudo kubeadm init --pod-network-cidr=192.168.0.0/16
 
-### Error: container runtime is not running
+### <span style="color:red"> Error: container runtime is not running </span>
 ### 명령어 차례대로 실행
 
     apt remove containerd
