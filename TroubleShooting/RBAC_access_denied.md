@@ -7,10 +7,10 @@
     apiVersion: security.istio.io/v1beta1
     kind: AuthorizationPolicy
     metadata:
-    name: allow-all
-    namespace: #namespace 이름
+      name: allow-all
+      namespace: kubeflow-user-example-com
     spec:
-    rules:
-    - {}
+     rules:
+     - {}
 
     
